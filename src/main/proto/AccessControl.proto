@@ -1,0 +1,4 @@
+message AccessControl {
+  required string role = 1;
+  required string id = 2;
+}
